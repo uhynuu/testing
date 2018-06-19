@@ -1,0 +1,29 @@
+- image: 01-thumbnail.jpg
+  title: Threads
+  category: Illustration
+  modal: portfolioModal1
+
+- image: 02-thumbnail.jpg
+  title: Explore
+  category: Graphic Design
+  modal: portfolioModal2
+
+- image: 03-thumbnail.jpg
+  title: Finish
+  category: Identity
+  modal: portfolioModal3
+
+- image: 04-thumbnail.jpg
+  title: Lines
+  category: Branding
+  modal: portfolioModal4
+
+- image: 05-thumbnail.jpg
+  title: Southwest
+  category: Website Design
+  modal: portfolioModal5
+
+- image: 06-thumbnail.jpg
+  title: Window
+  category: Photography
+  modal: portfolioModal6
